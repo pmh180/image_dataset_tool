@@ -12,3 +12,6 @@ __pycache__/
 # 临时文件、日志
 *.log
 *.tmp
+images/
+__pycache__/
+*.pyc
